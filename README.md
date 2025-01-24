@@ -1,5 +1,8 @@
 # README
 
+**Run the application using Maven:**
+`mvn spring-boot:run`
+
 ## Routes
 
 - **`GET /products`**: Displays the list of products.
